@@ -1,8 +1,13 @@
-# What in the world is a variable? -- [Video Link](https://youtu.be/EslenxKtZso)
+# What in the world is a variable?
 
+### References
+* [Video Link](https://youtu.be/EslenxKtZso)
+* [Reference Repl](https://repl.it/@VaibhavGupta4/Lesson1)
+
+### Assignment
 Your assignment this week is to do the following.
 * In your repl from last time, are there any parts of it that can be replaced with variables? Remember, variables should be used for things that may change in the future so try and think critically about what should and should not be a variable.
-* Try coming up with good variable names and types for each of the following word problems.
+* Try coming up with good variable names and types for each of the following word problems (on paper).
 ```
 Floyd is an aspiring music artist. He has a record contract that pays him a base rate of 
 $200 a month and an additional $12 for each album that he sells. How much money does he 
@@ -16,6 +21,6 @@ cost her? 1 gallon?
 ```
 
 * Create a new repl where you can try running some of the problems you wrote. Did it produce the same answers as you did on paper?
-* Share your links with others and try to compare variable names and types to understand different perspectives.
+* Share your links with others and compare variable names and types to understand different perspectives.
 
 **And remember, everything you need to answer your questions is out there, you just have to ask the right way.**
