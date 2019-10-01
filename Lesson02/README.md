@@ -1,6 +1,6 @@
 # Lesson02: Memory Tables & More -- [Video Link](https://youtu.be/RbmrQcbo92w)
 
-* [Reference Code](https://repl.it/@VaibhavGupta4/Lesson3)
+* [Reference Code](https://repl.it/@VaibhavGupta4/Lesson2)
 
 If you haven't done so already:
 * Sign up for the [Slack Community](https://forms.gle/Jx3TBiqDFkqB4CEj6)
